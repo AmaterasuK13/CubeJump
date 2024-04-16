@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 1910036038766329940}
   - component: {fileID: 6113851691306102529}
   - component: {fileID: 7310481950381640837}
+  - component: {fileID: 4538345624081333561}
   m_Layer: 0
   m_Name: WaterCube
   m_TagString: Untagged
@@ -105,3 +106,15 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &4538345624081333561
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7068601179810985310}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b6231ba19ffbd14d990a22f04e43f3b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
